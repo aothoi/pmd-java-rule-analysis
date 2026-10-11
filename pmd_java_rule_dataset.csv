@@ -1,0 +1,326 @@
+rule_id,rule_name,pmd_category,pmd_rule_path,priority,is_default_profile
+RULE-001,AbstractClassWithoutAbstractMethod,Best Practices,category/java/bestpractices.xml/AbstractClassWithoutAbstractMethod,3,False
+RULE-002,AccessorClassGeneration,Best Practices,category/java/bestpractices.xml/AccessorClassGeneration,3,False
+RULE-003,AccessorMethodGeneration,Best Practices,category/java/bestpractices.xml/AccessorMethodGeneration,3,False
+RULE-004,ArrayIsStoredDirectly,Best Practices,category/java/bestpractices.xml/ArrayIsStoredDirectly,3,False
+RULE-005,AssertStatementInTest,Best Practices,category/java/bestpractices.xml/AssertStatementInTest,3,False
+RULE-006,AvoidMessageDigestField,Best Practices,category/java/bestpractices.xml/AvoidMessageDigestField,3,True
+RULE-007,AvoidPrintStackTrace,Best Practices,category/java/bestpractices.xml/AvoidPrintStackTrace,3,False
+RULE-008,AvoidReassigningCatchVariables,Best Practices,category/java/bestpractices.xml/AvoidReassigningCatchVariables,3,False
+RULE-009,AvoidReassigningLoopVariables,Best Practices,category/java/bestpractices.xml/AvoidReassigningLoopVariables,3,False
+RULE-010,AvoidReassigningParameters,Best Practices,category/java/bestpractices.xml/AvoidReassigningParameters,2,False
+RULE-011,AvoidStringBufferField,Best Practices,category/java/bestpractices.xml/AvoidStringBufferField,3,True
+RULE-012,AvoidUsingHardCodedIP,Best Practices,category/java/bestpractices.xml/AvoidUsingHardCodedIP,3,True
+RULE-013,CheckResultSet,Best Practices,category/java/bestpractices.xml/CheckResultSet,3,True
+RULE-014,ConstantsInInterface,Best Practices,category/java/bestpractices.xml/ConstantsInInterface,3,True
+RULE-015,DefaultLabelNotLastInSwitchStmt,Best Practices,category/java/bestpractices.xml/DefaultLabelNotLastInSwitchStmt,3,False
+RULE-016,DefaultLabelNotLastInSwitch,Best Practices,category/java/bestpractices.xml/DefaultLabelNotLastInSwitch,3,True
+RULE-017,DoubleBraceInitialization,Best Practices,category/java/bestpractices.xml/DoubleBraceInitialization,3,True
+RULE-018,EnumComparison,Best Practices,category/java/bestpractices.xml/EnumComparison,3,False
+RULE-019,ExhaustiveSwitchHasDefault,Best Practices,category/java/bestpractices.xml/ExhaustiveSwitchHasDefault,3,False
+RULE-020,ForLoopCanBeForeach,Best Practices,category/java/bestpractices.xml/ForLoopCanBeForeach,3,True
+RULE-021,ForLoopVariableCount,Best Practices,category/java/bestpractices.xml/ForLoopVariableCount,3,False
+RULE-022,GuardLogStatement,Best Practices,category/java/bestpractices.xml/GuardLogStatement,2,True
+RULE-023,ImplicitFunctionalInterface,Best Practices,category/java/bestpractices.xml/ImplicitFunctionalInterface,2,False
+RULE-024,JUnit4SuitesShouldUseSuiteAnnotation,Best Practices,category/java/bestpractices.xml/JUnit4SuitesShouldUseSuiteAnnotation,3,False
+RULE-025,JUnit4TestShouldUseAfterAnnotation,Best Practices,category/java/bestpractices.xml/JUnit4TestShouldUseAfterAnnotation,3,False
+RULE-026,JUnit4TestShouldUseBeforeAnnotation,Best Practices,category/java/bestpractices.xml/JUnit4TestShouldUseBeforeAnnotation,3,False
+RULE-027,JUnit4TestShouldUseTestAnnotation,Best Practices,category/java/bestpractices.xml/JUnit4TestShouldUseTestAnnotation,3,False
+RULE-028,JUnit5TestShouldBePackagePrivate,Best Practices,category/java/bestpractices.xml/JUnit5TestShouldBePackagePrivate,3,False
+RULE-029,JUnitJupiterTestShouldBePackagePrivate,Best Practices,category/java/bestpractices.xml/JUnitJupiterTestShouldBePackagePrivate,3,False
+RULE-030,JUnitAssertionsShouldIncludeMessage,Best Practices,category/java/bestpractices.xml/JUnitAssertionsShouldIncludeMessage,3,False
+RULE-031,JUnitTestContainsTooManyAsserts,Best Practices,category/java/bestpractices.xml/JUnitTestContainsTooManyAsserts,3,False
+RULE-032,JUnitTestsShouldIncludeAssert,Best Practices,category/java/bestpractices.xml/JUnitTestsShouldIncludeAssert,3,False
+RULE-033,JUnitUseExpected,Best Practices,category/java/bestpractices.xml/JUnitUseExpected,3,False
+RULE-034,LabeledStatement,Best Practices,category/java/bestpractices.xml/LabeledStatement,3,False
+RULE-035,LiteralsFirstInComparisons,Best Practices,category/java/bestpractices.xml/LiteralsFirstInComparisons,3,True
+RULE-036,LooseCoupling,Best Practices,category/java/bestpractices.xml/LooseCoupling,3,True
+RULE-037,MethodReturnsInternalArray,Best Practices,category/java/bestpractices.xml/MethodReturnsInternalArray,3,False
+RULE-038,MissingOverride,Best Practices,category/java/bestpractices.xml/MissingOverride,3,True
+RULE-039,NonExhaustiveSwitch,Best Practices,category/java/bestpractices.xml/NonExhaustiveSwitch,3,True
+RULE-040,OnDemandImport,Best Practices,category/java/bestpractices.xml/OnDemandImport,3,False
+RULE-041,OneDeclarationPerLine,Best Practices,category/java/bestpractices.xml/OneDeclarationPerLine,4,True
+RULE-042,PreserveStackTrace,Best Practices,category/java/bestpractices.xml/PreserveStackTrace,3,True
+RULE-043,PrimitiveWrapperInstantiation,Best Practices,category/java/bestpractices.xml/PrimitiveWrapperInstantiation,3,True
+RULE-044,RelianceOnDefaultCharset,Best Practices,category/java/bestpractices.xml/RelianceOnDefaultCharset,3,False
+RULE-045,ReplaceEnumerationWithIterator,Best Practices,category/java/bestpractices.xml/ReplaceEnumerationWithIterator,3,False
+RULE-046,ReplaceHashtableWithMap,Best Practices,category/java/bestpractices.xml/ReplaceHashtableWithMap,3,False
+RULE-047,ReplaceVectorWithList,Best Practices,category/java/bestpractices.xml/ReplaceVectorWithList,3,False
+RULE-048,SimplifiableTestAssertion,Best Practices,category/java/bestpractices.xml/SimplifiableTestAssertion,3,True
+RULE-049,SwitchStmtsShouldHaveDefault,Best Practices,category/java/bestpractices.xml/SwitchStmtsShouldHaveDefault,3,False
+RULE-050,SystemPrintln,Best Practices,category/java/bestpractices.xml/SystemPrintln,2,False
+RULE-051,TypeNameMismatch,Best Practices,category/java/bestpractices.xml/TypeNameMismatch,3,False
+RULE-052,UnitTestAssertionsShouldIncludeMessage,Best Practices,category/java/bestpractices.xml/UnitTestAssertionsShouldIncludeMessage,3,False
+RULE-053,UnitTestContainsTooManyAsserts,Best Practices,category/java/bestpractices.xml/UnitTestContainsTooManyAsserts,3,False
+RULE-054,UnitTestShouldIncludeAssert,Best Practices,category/java/bestpractices.xml/UnitTestShouldIncludeAssert,3,False
+RULE-055,UnitTestShouldUseAfterAnnotation,Best Practices,category/java/bestpractices.xml/UnitTestShouldUseAfterAnnotation,3,False
+RULE-056,UnitTestShouldUseBeforeAnnotation,Best Practices,category/java/bestpractices.xml/UnitTestShouldUseBeforeAnnotation,3,False
+RULE-057,UnitTestShouldUseTestAnnotation,Best Practices,category/java/bestpractices.xml/UnitTestShouldUseTestAnnotation,3,False
+RULE-058,UnnecessaryVarargsArrayCreation,Best Practices,category/java/bestpractices.xml/UnnecessaryVarargsArrayCreation,3,False
+RULE-059,UnnecessaryWarningSuppression,Best Practices,category/java/bestpractices.xml/UnnecessaryWarningSuppression,3,False
+RULE-060,UnusedAssignment,Best Practices,category/java/bestpractices.xml/UnusedAssignment,3,False
+RULE-061,UnusedFormalParameter,Best Practices,category/java/bestpractices.xml/UnusedFormalParameter,3,True
+RULE-062,UnusedLabel,Best Practices,category/java/bestpractices.xml/UnusedLabel,3,True
+RULE-063,UnusedLocalVariable,Best Practices,category/java/bestpractices.xml/UnusedLocalVariable,3,True
+RULE-064,UnusedPrivateField,Best Practices,category/java/bestpractices.xml/UnusedPrivateField,3,True
+RULE-065,UnusedPrivateMethod,Best Practices,category/java/bestpractices.xml/UnusedPrivateMethod,3,True
+RULE-066,UseCollectionIsEmpty,Best Practices,category/java/bestpractices.xml/UseCollectionIsEmpty,3,True
+RULE-067,UseEnumCollections,Best Practices,category/java/bestpractices.xml/UseEnumCollections,3,False
+RULE-068,UseStandardCharsets,Best Practices,category/java/bestpractices.xml/UseStandardCharsets,3,True
+RULE-069,UseTryWithResources,Best Practices,category/java/bestpractices.xml/UseTryWithResources,3,False
+RULE-070,UseVarargs,Best Practices,category/java/bestpractices.xml/UseVarargs,4,False
+RULE-071,WhileLoopWithLiteralBoolean,Best Practices,category/java/bestpractices.xml/WhileLoopWithLiteralBoolean,3,False
+RULE-072,AddEmptyString,Performance,category/java/performance.xml/AddEmptyString,3,False
+RULE-073,AppendCharacterWithChar,Performance,category/java/performance.xml/AppendCharacterWithChar,3,False
+RULE-074,AvoidArrayLoops,Performance,category/java/performance.xml/AvoidArrayLoops,3,False
+RULE-075,AvoidCalendarDateCreation,Performance,category/java/performance.xml/AvoidCalendarDateCreation,3,False
+RULE-076,AvoidFileStream,Performance,category/java/performance.xml/AvoidFileStream,1,False
+RULE-077,AvoidInstantiatingObjectsInLoops,Performance,category/java/performance.xml/AvoidInstantiatingObjectsInLoops,3,False
+RULE-078,BigIntegerInstantiation,Performance,category/java/performance.xml/BigIntegerInstantiation,3,True
+RULE-079,ConsecutiveAppendsShouldReuse,Performance,category/java/performance.xml/ConsecutiveAppendsShouldReuse,3,False
+RULE-080,ConsecutiveLiteralAppends,Performance,category/java/performance.xml/ConsecutiveLiteralAppends,3,False
+RULE-081,InefficientEmptyStringCheck,Performance,category/java/performance.xml/InefficientEmptyStringCheck,3,False
+RULE-082,InefficientStringBuffering,Performance,category/java/performance.xml/InefficientStringBuffering,3,False
+RULE-083,InsufficientStringBufferDeclaration,Performance,category/java/performance.xml/InsufficientStringBufferDeclaration,3,False
+RULE-084,OptimizableToArrayCall,Performance,category/java/performance.xml/OptimizableToArrayCall,3,True
+RULE-085,RedundantFieldInitializer,Performance,category/java/performance.xml/RedundantFieldInitializer,3,False
+RULE-086,StringInstantiation,Performance,category/java/performance.xml/StringInstantiation,2,False
+RULE-087,StringToString,Performance,category/java/performance.xml/StringToString,3,False
+RULE-088,TooFewBranchesForASwitchStatement,Performance,category/java/performance.xml/TooFewBranchesForASwitchStatement,3,False
+RULE-089,TooFewBranchesForSwitch,Performance,category/java/performance.xml/TooFewBranchesForSwitch,3,False
+RULE-090,UseArrayListInsteadOfVector,Performance,category/java/performance.xml/UseArrayListInsteadOfVector,3,False
+RULE-091,UseArraysAsList,Performance,category/java/performance.xml/UseArraysAsList,3,False
+RULE-092,UseIndexOfChar,Performance,category/java/performance.xml/UseIndexOfChar,3,False
+RULE-093,UseIOStreamsWithApacheCommonsFileItem,Performance,category/java/performance.xml/UseIOStreamsWithApacheCommonsFileItem,3,False
+RULE-094,UselessStringValueOf,Performance,category/java/performance.xml/UselessStringValueOf,3,False
+RULE-095,UseStringBufferForStringAppends,Performance,category/java/performance.xml/UseStringBufferForStringAppends,3,False
+RULE-096,UseStringBufferLength,Performance,category/java/performance.xml/UseStringBufferLength,3,False
+RULE-097,HardCodedCryptoKey,Security,category/java/security.xml/HardCodedCryptoKey,3,False
+RULE-098,InsecureCryptoIv,Security,category/java/security.xml/InsecureCryptoIv,3,False
+RULE-099,AbstractClassWithoutAnyMethod,Design,category/java/design.xml/AbstractClassWithoutAnyMethod,1,True
+RULE-100,AvoidCatchingGenericException,Design,category/java/design.xml/AvoidCatchingGenericException,3,False
+RULE-101,AvoidDeeplyNestedIfStmts,Design,category/java/design.xml/AvoidDeeplyNestedIfStmts,3,False
+RULE-102,AvoidRethrowingException,Design,category/java/design.xml/AvoidRethrowingException,3,False
+RULE-103,AvoidThrowingNewInstanceOfSameException,Design,category/java/design.xml/AvoidThrowingNewInstanceOfSameException,3,False
+RULE-104,AvoidThrowingNullPointerException,Design,category/java/design.xml/AvoidThrowingNullPointerException,1,False
+RULE-105,AvoidThrowingRawExceptionTypes,Design,category/java/design.xml/AvoidThrowingRawExceptionTypes,1,False
+RULE-106,AvoidUncheckedExceptionsInSignatures,Design,category/java/design.xml/AvoidUncheckedExceptionsInSignatures,3,False
+RULE-107,ClassWithOnlyPrivateConstructorsShouldBeFinal,Design,category/java/design.xml/ClassWithOnlyPrivateConstructorsShouldBeFinal,1,True
+RULE-108,CognitiveComplexity,Design,category/java/design.xml/CognitiveComplexity,3,False
+RULE-109,CollapsibleIfStatements,Design,category/java/design.xml/CollapsibleIfStatements,3,False
+RULE-110,CouplingBetweenObjects,Design,category/java/design.xml/CouplingBetweenObjects,3,False
+RULE-111,CyclomaticComplexity,Design,category/java/design.xml/CyclomaticComplexity,3,False
+RULE-112,DataClass,Design,category/java/design.xml/DataClass,3,False
+RULE-113,DoNotExtendJavaLangError,Design,category/java/design.xml/DoNotExtendJavaLangError,3,True
+RULE-114,ExceptionAsFlowControl,Design,category/java/design.xml/ExceptionAsFlowControl,3,False
+RULE-115,ExcessiveImports,Design,category/java/design.xml/ExcessiveImports,3,False
+RULE-116,ExcessiveParameterList,Design,category/java/design.xml/ExcessiveParameterList,3,False
+RULE-117,ExcessivePublicCount,Design,category/java/design.xml/ExcessivePublicCount,3,False
+RULE-118,FinalFieldCouldBeStatic,Design,category/java/design.xml/FinalFieldCouldBeStatic,3,True
+RULE-119,GodClass,Design,category/java/design.xml/GodClass,3,False
+RULE-120,ImmutableField,Design,category/java/design.xml/ImmutableField,3,False
+RULE-121,InstantiableUtilityClass,Design,category/java/design.xml/InstantiableUtilityClass,3,True
+RULE-122,InternalApiUsage,Design,category/java/design.xml/InternalApiUsage,1,False
+RULE-123,InvalidJavaBean,Design,category/java/design.xml/InvalidJavaBean,3,False
+RULE-124,LawOfDemeter,Design,category/java/design.xml/LawOfDemeter,3,False
+RULE-125,LogicInversion,Design,category/java/design.xml/LogicInversion,3,True
+RULE-126,LoosePackageCoupling,Design,category/java/design.xml/LoosePackageCoupling,3,False
+RULE-127,MutableStaticState,Design,category/java/design.xml/MutableStaticState,3,False
+RULE-128,NcssCount,Design,category/java/design.xml/NcssCount,3,False
+RULE-129,NPathComplexity,Design,category/java/design.xml/NPathComplexity,3,False
+RULE-130,ProtectedMemberInFinalClass,Design,category/java/design.xml/ProtectedMemberInFinalClass,3,True
+RULE-131,PublicMemberInNonPublicType,Design,category/java/design.xml/PublicMemberInNonPublicType,3,False
+RULE-132,SignatureDeclareThrowsException,Design,category/java/design.xml/SignatureDeclareThrowsException,3,False
+RULE-133,SimplifiedTernary,Design,category/java/design.xml/SimplifiedTernary,3,True
+RULE-134,SimplifyBooleanExpressions,Design,category/java/design.xml/SimplifyBooleanExpressions,3,False
+RULE-135,SimplifyBooleanReturns,Design,category/java/design.xml/SimplifyBooleanReturns,3,True
+RULE-136,SimplifyConditional,Design,category/java/design.xml/SimplifyConditional,3,True
+RULE-137,SingularField,Design,category/java/design.xml/SingularField,3,True
+RULE-138,SwitchDensity,Design,category/java/design.xml/SwitchDensity,3,False
+RULE-139,TooManyFields,Design,category/java/design.xml/TooManyFields,3,False
+RULE-140,TooManyMethods,Design,category/java/design.xml/TooManyMethods,3,False
+RULE-141,UselessOverridingMethod,Design,category/java/design.xml/UselessOverridingMethod,3,True
+RULE-142,UseObjectForClearerAPI,Design,category/java/design.xml/UseObjectForClearerAPI,3,False
+RULE-143,UseUtilityClass,Design,category/java/design.xml/UseUtilityClass,3,False
+RULE-144,AtLeastOneConstructor,Code Style,category/java/codestyle.xml/AtLeastOneConstructor,3,False
+RULE-145,AvoidDollarSigns,Code Style,category/java/codestyle.xml/AvoidDollarSigns,3,True
+RULE-146,AvoidProtectedFieldInFinalClass,Code Style,category/java/codestyle.xml/AvoidProtectedFieldInFinalClass,3,False
+RULE-147,AvoidProtectedMethodInFinalClassNotExtending,Code Style,category/java/codestyle.xml/AvoidProtectedMethodInFinalClassNotExtending,3,False
+RULE-148,AvoidUsingNativeCode,Code Style,category/java/codestyle.xml/AvoidUsingNativeCode,2,False
+RULE-149,BooleanGetMethodName,Code Style,category/java/codestyle.xml/BooleanGetMethodName,4,False
+RULE-150,CallSuperInConstructor,Code Style,category/java/codestyle.xml/CallSuperInConstructor,3,False
+RULE-151,ClassNamingConventions,Code Style,category/java/codestyle.xml/ClassNamingConventions,1,True
+RULE-152,CommentDefaultAccessModifier,Code Style,category/java/codestyle.xml/CommentDefaultAccessModifier,3,False
+RULE-153,ConfusingTernary,Code Style,category/java/codestyle.xml/ConfusingTernary,3,False
+RULE-154,ControlStatementBraces,Code Style,category/java/codestyle.xml/ControlStatementBraces,3,True
+RULE-155,CStyleArrayDeclaration,Code Style,category/java/codestyle.xml/CStyleArrayDeclaration,3,False
+RULE-156,EmptyControlStatement,Code Style,category/java/codestyle.xml/EmptyControlStatement,3,True
+RULE-157,EmptyMethodInAbstractClassShouldBeAbstract,Code Style,category/java/codestyle.xml/EmptyMethodInAbstractClassShouldBeAbstract,1,False
+RULE-158,ExtendsObject,Code Style,category/java/codestyle.xml/ExtendsObject,4,True
+RULE-159,FieldDeclarationsShouldBeAtStartOfClass,Code Style,category/java/codestyle.xml/FieldDeclarationsShouldBeAtStartOfClass,3,False
+RULE-160,FieldNamingConventions,Code Style,category/java/codestyle.xml/FieldNamingConventions,1,False
+RULE-161,FinalParameterInAbstractMethod,Code Style,category/java/codestyle.xml/FinalParameterInAbstractMethod,1,True
+RULE-162,ForLoopShouldBeWhileLoop,Code Style,category/java/codestyle.xml/ForLoopShouldBeWhileLoop,3,True
+RULE-163,FormalParameterNamingConventions,Code Style,category/java/codestyle.xml/FormalParameterNamingConventions,1,True
+RULE-164,GenericsNaming,Code Style,category/java/codestyle.xml/GenericsNaming,4,False
+RULE-165,IdenticalCatchBranches,Code Style,category/java/codestyle.xml/IdenticalCatchBranches,3,True
+RULE-166,LambdaCanBeMethodReference,Code Style,category/java/codestyle.xml/LambdaCanBeMethodReference,3,True
+RULE-167,LinguisticNaming,Code Style,category/java/codestyle.xml/LinguisticNaming,3,False
+RULE-168,LocalHomeNamingConvention,Code Style,category/java/codestyle.xml/LocalHomeNamingConvention,4,False
+RULE-169,LocalInterfaceSessionNamingConvention,Code Style,category/java/codestyle.xml/LocalInterfaceSessionNamingConvention,4,False
+RULE-170,LocalVariableCouldBeFinal,Code Style,category/java/codestyle.xml/LocalVariableCouldBeFinal,3,False
+RULE-171,LocalVariableNamingConventions,Code Style,category/java/codestyle.xml/LocalVariableNamingConventions,1,True
+RULE-172,LongVariable,Code Style,category/java/codestyle.xml/LongVariable,3,False
+RULE-173,MDBAndSessionBeanNamingConvention,Code Style,category/java/codestyle.xml/MDBAndSessionBeanNamingConvention,4,False
+RULE-174,MethodArgumentCouldBeFinal,Code Style,category/java/codestyle.xml/MethodArgumentCouldBeFinal,3,False
+RULE-175,MethodNamingConventions,Code Style,category/java/codestyle.xml/MethodNamingConventions,1,True
+RULE-176,ModifierOrder,Code Style,category/java/codestyle.xml/ModifierOrder,1,False
+RULE-177,NoPackage,Code Style,category/java/codestyle.xml/NoPackage,3,True
+RULE-178,OnlyOneReturn,Code Style,category/java/codestyle.xml/OnlyOneReturn,3,False
+RULE-179,PackageCase,Code Style,category/java/codestyle.xml/PackageCase,3,True
+RULE-180,PrematureDeclaration,Code Style,category/java/codestyle.xml/PrematureDeclaration,3,False
+RULE-181,RemoteInterfaceNamingConvention,Code Style,category/java/codestyle.xml/RemoteInterfaceNamingConvention,4,False
+RULE-182,RemoteSessionInterfaceNamingConvention,Code Style,category/java/codestyle.xml/RemoteSessionInterfaceNamingConvention,4,False
+RULE-183,ShortClassName,Code Style,category/java/codestyle.xml/ShortClassName,4,False
+RULE-184,ShortMethodName,Code Style,category/java/codestyle.xml/ShortMethodName,3,False
+RULE-185,ShortVariable,Code Style,category/java/codestyle.xml/ShortVariable,3,False
+RULE-186,TooManyStaticImports,Code Style,category/java/codestyle.xml/TooManyStaticImports,3,False
+RULE-187,TypeParameterNamingConventions,Code Style,category/java/codestyle.xml/TypeParameterNamingConventions,4,True
+RULE-188,UnnecessaryAnnotationValueElement,Code Style,category/java/codestyle.xml/UnnecessaryAnnotationValueElement,3,True
+RULE-189,UnnecessaryBlock,Code Style,category/java/codestyle.xml/UnnecessaryBlock,3,False
+RULE-190,UnnecessaryBoxing,Code Style,category/java/codestyle.xml/UnnecessaryBoxing,3,False
+RULE-191,UnnecessaryCast,Code Style,category/java/codestyle.xml/UnnecessaryCast,3,False
+RULE-192,UnnecessaryConstructor,Code Style,category/java/codestyle.xml/UnnecessaryConstructor,3,True
+RULE-193,UnnecessaryFullyQualifiedName,Code Style,category/java/codestyle.xml/UnnecessaryFullyQualifiedName,4,True
+RULE-194,UnnecessaryImport,Code Style,category/java/codestyle.xml/UnnecessaryImport,4,True
+RULE-195,UnnecessaryInterfaceDeclaration,Code Style,category/java/codestyle.xml/UnnecessaryInterfaceDeclaration,4,False
+RULE-196,UnnecessaryLocalBeforeReturn,Code Style,category/java/codestyle.xml/UnnecessaryLocalBeforeReturn,3,False
+RULE-197,UnnecessaryModifier,Code Style,category/java/codestyle.xml/UnnecessaryModifier,3,True
+RULE-198,UnnecessaryReturn,Code Style,category/java/codestyle.xml/UnnecessaryReturn,3,True
+RULE-199,UnnecessarySemicolon,Code Style,category/java/codestyle.xml/UnnecessarySemicolon,3,True
+RULE-200,UseDiamondOperator,Code Style,category/java/codestyle.xml/UseDiamondOperator,3,False
+RULE-201,UseExplicitTypes,Code Style,category/java/codestyle.xml/UseExplicitTypes,3,False
+RULE-202,UselessParentheses,Code Style,category/java/codestyle.xml/UselessParentheses,4,True
+RULE-203,UselessQualifiedThis,Code Style,category/java/codestyle.xml/UselessQualifiedThis,3,True
+RULE-204,UseShortArrayInitializer,Code Style,category/java/codestyle.xml/UseShortArrayInitializer,3,False
+RULE-205,UseUnderscoresInNumericLiterals,Code Style,category/java/codestyle.xml/UseUnderscoresInNumericLiterals,3,False
+RULE-206,VariableCanBeInlined,Code Style,category/java/codestyle.xml/VariableCanBeInlined,3,True
+RULE-207,VariableDeclarationUsageDistance,Code Style,category/java/codestyle.xml/VariableDeclarationUsageDistance,3,False
+RULE-208,AvoidSynchronizedAtMethodLevel,Multithreading,category/java/multithreading.xml/AvoidSynchronizedAtMethodLevel,3,False
+RULE-209,AvoidSynchronizedStatement,Multithreading,category/java/multithreading.xml/AvoidSynchronizedStatement,3,False
+RULE-210,AvoidThreadGroup,Multithreading,category/java/multithreading.xml/AvoidThreadGroup,3,True
+RULE-211,AvoidUsingVolatile,Multithreading,category/java/multithreading.xml/AvoidUsingVolatile,2,True
+RULE-212,DoNotUseThreads,Multithreading,category/java/multithreading.xml/DoNotUseThreads,3,False
+RULE-213,DontCallThreadRun,Multithreading,category/java/multithreading.xml/DontCallThreadRun,4,True
+RULE-214,DoubleCheckedLocking,Multithreading,category/java/multithreading.xml/DoubleCheckedLocking,1,True
+RULE-215,NonThreadSafeSingleton,Multithreading,category/java/multithreading.xml/NonThreadSafeSingleton,3,True
+RULE-216,OverridingThreadRun,Multithreading,category/java/multithreading.xml/OverridingThreadRun,3,False
+RULE-217,UnsynchronizedStaticFormatter,Multithreading,category/java/multithreading.xml/UnsynchronizedStaticFormatter,3,True
+RULE-218,UseConcurrentHashMap,Multithreading,category/java/multithreading.xml/UseConcurrentHashMap,3,False
+RULE-219,UseNotifyAllInsteadOfNotify,Multithreading,category/java/multithreading.xml/UseNotifyAllInsteadOfNotify,3,True
+RULE-220,AssertEqualsArgumentOrder,Error Prone,category/java/errorprone.xml/AssertEqualsArgumentOrder,3,False
+RULE-221,AssignmentInOperand,Error Prone,category/java/errorprone.xml/AssignmentInOperand,3,True
+RULE-222,AssignmentToNonFinalStatic,Error Prone,category/java/errorprone.xml/AssignmentToNonFinalStatic,3,True
+RULE-223,AvoidAccessibilityAlteration,Error Prone,category/java/errorprone.xml/AvoidAccessibilityAlteration,3,True
+RULE-224,AvoidAssertAsIdentifier,Error Prone,category/java/errorprone.xml/AvoidAssertAsIdentifier,2,False
+RULE-225,AvoidBranchingStatementAsLastInLoop,Error Prone,category/java/errorprone.xml/AvoidBranchingStatementAsLastInLoop,2,True
+RULE-226,AvoidCallingFinalize,Error Prone,category/java/errorprone.xml/AvoidCallingFinalize,3,False
+RULE-227,AvoidCatchingGenericException,Error Prone,category/java/errorprone.xml/AvoidCatchingGenericException,3,True
+RULE-228,AvoidCatchingNPE,Error Prone,category/java/errorprone.xml/AvoidCatchingNPE,3,False
+RULE-229,AvoidCatchingThrowable,Error Prone,category/java/errorprone.xml/AvoidCatchingThrowable,3,False
+RULE-230,AvoidDecimalLiteralsInBigDecimalConstructor,Error Prone,category/java/errorprone.xml/AvoidDecimalLiteralsInBigDecimalConstructor,3,True
+RULE-231,AvoidDuplicateLiterals,Error Prone,category/java/errorprone.xml/AvoidDuplicateLiterals,3,False
+RULE-232,AvoidEnumAsIdentifier,Error Prone,category/java/errorprone.xml/AvoidEnumAsIdentifier,2,False
+RULE-233,AvoidFieldNameMatchingMethodName,Error Prone,category/java/errorprone.xml/AvoidFieldNameMatchingMethodName,3,False
+RULE-234,AvoidFieldNameMatchingTypeName,Error Prone,category/java/errorprone.xml/AvoidFieldNameMatchingTypeName,3,False
+RULE-235,AvoidInstanceofChecksInCatchClause,Error Prone,category/java/errorprone.xml/AvoidInstanceofChecksInCatchClause,3,True
+RULE-236,AvoidLiteralsInIfCondition,Error Prone,category/java/errorprone.xml/AvoidLiteralsInIfCondition,3,False
+RULE-237,AvoidLosingExceptionInformation,Error Prone,category/java/errorprone.xml/AvoidLosingExceptionInformation,2,False
+RULE-238,AvoidMultipleUnaryOperators,Error Prone,category/java/errorprone.xml/AvoidMultipleUnaryOperators,2,True
+RULE-239,AvoidUsingOctalValues,Error Prone,category/java/errorprone.xml/AvoidUsingOctalValues,3,True
+RULE-240,BrokenNullCheck,Error Prone,category/java/errorprone.xml/BrokenNullCheck,2,True
+RULE-241,CallSuperFirst,Error Prone,category/java/errorprone.xml/CallSuperFirst,3,False
+RULE-242,CallSuperLast,Error Prone,category/java/errorprone.xml/CallSuperLast,3,False
+RULE-243,CheckSkipResult,Error Prone,category/java/errorprone.xml/CheckSkipResult,3,False
+RULE-244,ClassCastExceptionWithToArray,Error Prone,category/java/errorprone.xml/ClassCastExceptionWithToArray,3,True
+RULE-245,CloneMethodMustBePublic,Error Prone,category/java/errorprone.xml/CloneMethodMustBePublic,3,True
+RULE-246,CloneMethodMustImplementCloneable,Error Prone,category/java/errorprone.xml/CloneMethodMustImplementCloneable,3,True
+RULE-247,CloneMethodReturnTypeMustMatchClassName,Error Prone,category/java/errorprone.xml/CloneMethodReturnTypeMustMatchClassName,3,True
+RULE-248,CloseResource,Error Prone,category/java/errorprone.xml/CloseResource,3,True
+RULE-249,CollectionTypeMismatch,Error Prone,category/java/errorprone.xml/CollectionTypeMismatch,3,True
+RULE-250,CompareObjectsWithEquals,Error Prone,category/java/errorprone.xml/CompareObjectsWithEquals,3,True
+RULE-251,ComparisonWithNaN,Error Prone,category/java/errorprone.xml/ComparisonWithNaN,3,True
+RULE-252,ConfusingArgumentToVarargsMethod,Error Prone,category/java/errorprone.xml/ConfusingArgumentToVarargsMethod,3,False
+RULE-253,ConstructorCallsOverridableMethod,Error Prone,category/java/errorprone.xml/ConstructorCallsOverridableMethod,1,False
+RULE-254,DetachedTestCase,Error Prone,category/java/errorprone.xml/DetachedTestCase,3,False
+RULE-255,DoNotCallGarbageCollectionExplicitly,Error Prone,category/java/errorprone.xml/DoNotCallGarbageCollectionExplicitly,2,True
+RULE-256,DoNotExtendJavaLangThrowable,Error Prone,category/java/errorprone.xml/DoNotExtendJavaLangThrowable,3,True
+RULE-257,DoNotHardCodeSDCard,Error Prone,category/java/errorprone.xml/DoNotHardCodeSDCard,3,False
+RULE-258,DoNotTerminateVM,Error Prone,category/java/errorprone.xml/DoNotTerminateVM,3,False
+RULE-259,DoNotThrowExceptionInFinally,Error Prone,category/java/errorprone.xml/DoNotThrowExceptionInFinally,4,False
+RULE-260,DontImportSun,Error Prone,category/java/errorprone.xml/DontImportSun,4,False
+RULE-261,DontUseFloatTypeForLoopIndices,Error Prone,category/java/errorprone.xml/DontUseFloatTypeForLoopIndices,3,True
+RULE-262,EmptyCatchBlock,Error Prone,category/java/errorprone.xml/EmptyCatchBlock,3,True
+RULE-263,EmptyFinalizer,Error Prone,category/java/errorprone.xml/EmptyFinalizer,3,True
+RULE-264,EqualsNull,Error Prone,category/java/errorprone.xml/EqualsNull,1,True
+RULE-265,FinalizeDoesNotCallSuperFinalize,Error Prone,category/java/errorprone.xml/FinalizeDoesNotCallSuperFinalize,3,False
+RULE-266,FinalizeOnlyCallsSuperFinalize,Error Prone,category/java/errorprone.xml/FinalizeOnlyCallsSuperFinalize,3,False
+RULE-267,FinalizeOverloaded,Error Prone,category/java/errorprone.xml/FinalizeOverloaded,3,False
+RULE-268,FinalizeShouldBeProtected,Error Prone,category/java/errorprone.xml/FinalizeShouldBeProtected,3,False
+RULE-269,IdempotentOperations,Error Prone,category/java/errorprone.xml/IdempotentOperations,3,True
+RULE-270,IdenticalConditionalBranches,Error Prone,category/java/errorprone.xml/IdenticalConditionalBranches,3,False
+RULE-271,ImplicitSwitchFallThrough,Error Prone,category/java/errorprone.xml/ImplicitSwitchFallThrough,3,True
+RULE-272,InstantiationToGetClass,Error Prone,category/java/errorprone.xml/InstantiationToGetClass,4,True
+RULE-273,InvalidLogMessageFormat,Error Prone,category/java/errorprone.xml/InvalidLogMessageFormat,5,False
+RULE-274,JumbledIncrementer,Error Prone,category/java/errorprone.xml/JumbledIncrementer,3,True
+RULE-275,JUnitJupiterTestNoPrivateModifier,Error Prone,category/java/errorprone.xml/JUnitJupiterTestNoPrivateModifier,3,False
+RULE-276,JUnitSpelling,Error Prone,category/java/errorprone.xml/JUnitSpelling,3,False
+RULE-277,JUnitStaticSuite,Error Prone,category/java/errorprone.xml/JUnitStaticSuite,3,False
+RULE-278,LongLiteralEndingWithLowercaseL,Error Prone,category/java/errorprone.xml/LongLiteralEndingWithLowercaseL,3,False
+RULE-279,MethodWithSameNameAsEnclosingClass,Error Prone,category/java/errorprone.xml/MethodWithSameNameAsEnclosingClass,3,False
+RULE-280,MisplacedNullCheck,Error Prone,category/java/errorprone.xml/MisplacedNullCheck,3,True
+RULE-281,MissingSerialVersionUID,Error Prone,category/java/errorprone.xml/MissingSerialVersionUID,3,False
+RULE-282,MissingStaticMethodInNonInstantiatableClass,Error Prone,category/java/errorprone.xml/MissingStaticMethodInNonInstantiatableClass,3,True
+RULE-283,MoreThanOneLogger,Error Prone,category/java/errorprone.xml/MoreThanOneLogger,2,False
+RULE-284,NonCaseLabelInSwitchStatement,Error Prone,category/java/errorprone.xml/NonCaseLabelInSwitchStatement,3,False
+RULE-285,NonCaseLabelInSwitch,Error Prone,category/java/errorprone.xml/NonCaseLabelInSwitch,3,True
+RULE-286,NonSerializableClass,Error Prone,category/java/errorprone.xml/NonSerializableClass,3,False
+RULE-287,NonStaticInitializer,Error Prone,category/java/errorprone.xml/NonStaticInitializer,3,True
+RULE-288,NullAssignment,Error Prone,category/java/errorprone.xml/NullAssignment,3,False
+RULE-289,OverrideBothEqualsAndHashcode,Error Prone,category/java/errorprone.xml/OverrideBothEqualsAndHashcode,3,True
+RULE-290,OverrideBothEqualsAndHashCodeOnComparable,Error Prone,category/java/errorprone.xml/OverrideBothEqualsAndHashCodeOnComparable,3,True
+RULE-291,ProperCloneImplementation,Error Prone,category/java/errorprone.xml/ProperCloneImplementation,2,True
+RULE-292,ProperLogger,Error Prone,category/java/errorprone.xml/ProperLogger,3,True
+RULE-293,ReplaceJavaUtilCalendar,Error Prone,category/java/errorprone.xml/ReplaceJavaUtilCalendar,3,False
+RULE-294,ReplaceJavaUtilDate,Error Prone,category/java/errorprone.xml/ReplaceJavaUtilDate,3,False
+RULE-295,ReturnEmptyCollectionRatherThanNull,Error Prone,category/java/errorprone.xml/ReturnEmptyCollectionRatherThanNull,1,True
+RULE-296,ReturnFromFinallyBlock,Error Prone,category/java/errorprone.xml/ReturnFromFinallyBlock,3,True
+RULE-297,SimpleDateFormatNeedsLocale,Error Prone,category/java/errorprone.xml/SimpleDateFormatNeedsLocale,3,False
+RULE-298,SingleMethodSingleton,Error Prone,category/java/errorprone.xml/SingleMethodSingleton,2,True
+RULE-299,SingletonClassReturningNewInstance,Error Prone,category/java/errorprone.xml/SingletonClassReturningNewInstance,2,True
+RULE-300,StaticEJBFieldShouldBeFinal,Error Prone,category/java/errorprone.xml/StaticEJBFieldShouldBeFinal,3,False
+RULE-301,StringBufferInstantiationWithChar,Error Prone,category/java/errorprone.xml/StringBufferInstantiationWithChar,4,False
+RULE-302,SuspiciousEqualsMethodName,Error Prone,category/java/errorprone.xml/SuspiciousEqualsMethodName,2,True
+RULE-303,SuspiciousHashcodeMethodName,Error Prone,category/java/errorprone.xml/SuspiciousHashcodeMethodName,3,True
+RULE-304,SuspiciousOctalEscape,Error Prone,category/java/errorprone.xml/SuspiciousOctalEscape,3,True
+RULE-305,TestClassWithoutTestCases,Error Prone,category/java/errorprone.xml/TestClassWithoutTestCases,3,False
+RULE-306,UnconditionalIfStatement,Error Prone,category/java/errorprone.xml/UnconditionalIfStatement,3,True
+RULE-307,UnnecessaryBooleanAssertion,Error Prone,category/java/errorprone.xml/UnnecessaryBooleanAssertion,3,False
+RULE-308,UnnecessaryCaseChange,Error Prone,category/java/errorprone.xml/UnnecessaryCaseChange,3,False
+RULE-309,UnnecessaryConversionTemporary,Error Prone,category/java/errorprone.xml/UnnecessaryConversionTemporary,3,True
+RULE-310,UnsupportedJdkApiUsage,Error Prone,category/java/errorprone.xml/UnsupportedJdkApiUsage,3,False
+RULE-311,UnusedNullCheckInEquals,Error Prone,category/java/errorprone.xml/UnusedNullCheckInEquals,3,True
+RULE-312,UnusedReturnValue,Error Prone,category/java/errorprone.xml/UnusedReturnValue,3,True
+RULE-313,UseCorrectExceptionLogging,Error Prone,category/java/errorprone.xml/UseCorrectExceptionLogging,3,False
+RULE-314,UseEqualsToCompareStrings,Error Prone,category/java/errorprone.xml/UseEqualsToCompareStrings,3,True
+RULE-315,UselessOperationOnImmutable,Error Prone,category/java/errorprone.xml/UselessOperationOnImmutable,3,False
+RULE-316,UselessPureMethodCall,Error Prone,category/java/errorprone.xml/UselessPureMethodCall,3,False
+RULE-317,UseLocaleWithCaseConversions,Error Prone,category/java/errorprone.xml/UseLocaleWithCaseConversions,3,True
+RULE-318,UseProperClassLoader,Error Prone,category/java/errorprone.xml/UseProperClassLoader,3,False
+RULE-319,WrongTestAnnotation,Error Prone,category/java/errorprone.xml/WrongTestAnnotation,1,False
+RULE-320,CommentContent,Documentation,category/java/documentation.xml/CommentContent,3,False
+RULE-321,CommentRequired,Documentation,category/java/documentation.xml/CommentRequired,3,False
+RULE-322,CommentSize,Documentation,category/java/documentation.xml/CommentSize,3,False
+RULE-323,DanglingJavadoc,Documentation,category/java/documentation.xml/DanglingJavadoc,3,True
+RULE-324,UncommentedEmptyConstructor,Documentation,category/java/documentation.xml/UncommentedEmptyConstructor,3,True
+RULE-325,UncommentedEmptyMethodBody,Documentation,category/java/documentation.xml/UncommentedEmptyMethodBody,3,True
